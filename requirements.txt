@@ -1,0 +1,6 @@
+Flask==3.0.0
+openai==0.28.0
+SpeechRecognition==3.8.1
+selenium==4.18.1
+mysql.connector
+beautifulsoup4
